@@ -112,3 +112,5 @@ To add another user, you would copy the piece of code in ‘orange’ and paste 
 
 # Modifying the data:
 Once you download the project through the git command, the project is installed locally on your machine. The file management system makes it easy to modify the data because all you need to do is go to the file path of the folder ‘toxicfolder’ folder and drag in a toxic picture you want or the file path of the ‘nontoxicfolder’ folder and drag in your image. After doing this, go to the notebook lab and confirm they were added successfully to the notebook. If they are, then re-run each cell block in the project so the new images can run through the neural network. (Your file path may be slightly different but here is an example): 
+
+![folder structure capstone](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/d4b41248-dd56-47d5-ae75-2a2b0239c06a)
