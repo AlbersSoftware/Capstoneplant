@@ -79,7 +79,6 @@ Step9: 'Shift-enter' cell block by cell block through the entire program. The la
 Step 11: After a successful login click the 'upload files' button and it will prompt open your file directory in a new window. From there, choose the poison ivy picture in .jpg format of your choice that you have downloaded.
 
 
-
 Step 12: Next you will see your photo in the UI, when you see that photo there click the 'predict' button. This will run your picture through the Convolutional Neural Network and make a prediction of either (toxic or non-toxic) and print that result to the console along with the associated picture.
  (You can re-upload and re-predict as you desire and close the window with the 'x' in the top right-hand corner of the login page to cancel the program.)
 
@@ -95,7 +94,7 @@ Step 12: Next you will see your photo in the UI, when you see that photo there c
  3.  The flow of the UI:
 Step1- login with proper username and password ‘admin’.
 Step2- click the ‘upload files’ button which will prompt open your local directories.
-Step3- choice a file in .png format and click the ‘open’ button.
+Step3- choose a file in .png format and click the ‘open’ button.
 Step4- After seeing your selected image in the UI, click the ‘predict’ button.
 Step5- close or minimize the program to view your results in the console. You will see the prediction of either ‘toxic’ or ‘non-toxic’ with the associated picture you have chosen.
 
