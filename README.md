@@ -1,6 +1,6 @@
 # Capstoneplant
 
-# About this project
+# About This Project
  In this project I used JupyterLab as 
 my environment. I created a custom 
 ipykernel and implemented a 
@@ -25,7 +25,7 @@ into a folder.(The 'toxic folder' or
 ![Program flow-capstone](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/26097c15-e581-4d6e-8644-0d7b75b36be9)
 
 
-# Installation Guide and getting started!
+# Installation Guide And Getting Started!
 
 Installation Guide 
 Step 1: Install Anaconda at: https://www.anaconda.com/download
@@ -99,7 +99,7 @@ Step3- choice a file in .png format and click the ‘open’ button.
 Step4- After seeing your selected image in the UI, click the ‘predict’ button.
 Step5- close or minimize the program to view your results in the console. You will see the prediction of either ‘toxic’ or ‘non-toxic’ with the associated picture you have chosen.
 
- # Creating a new User
+ # Creating A New User
  User login set-up:
 1. Changing the username and passwords.
  Below is a picture of cell block [64]. In this block there is a function called def login() highlighted in red. In this function there is the names “admin” highlighted in purple that can be changed to anything you want the username and password to be. In orange you can see there is another user which can also be changed to whatever you want the user name and password to be as long as it stays in the “ ” marks.
@@ -110,7 +110,11 @@ To add another user, you would copy the piece of code in ‘orange’ and paste 
 ![new-user-capstone](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/9d4f128f-74c3-4b0b-a9e2-1b1d18050a8c)
 
 
-# Modifying the data:
+# Modifying The Data:
 Once you download the project through the git command, the project is installed locally on your machine. The file management system makes it easy to modify the data because all you need to do is go to the file path of the folder ‘toxicfolder’ folder and drag in a toxic picture you want or the file path of the ‘nontoxicfolder’ folder and drag in your image. After doing this, go to the notebook lab and confirm they were added successfully to the notebook. If they are, then re-run each cell block in the project so the new images can run through the neural network. (Your file path may be slightly different but here is an example): 
 
 ![folder structure capstone](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/d4b41248-dd56-47d5-ae75-2a2b0239c06a)
+
+
+# Future Changes
+In the future I plan to host this project as a web app and potientially change the UI to IPy-Widgets. The goal for the program would be for a user to modify the data on a desktop computer and a mobile device to take a picture and run it against the trained data. 
