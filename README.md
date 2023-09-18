@@ -90,8 +90,10 @@ Step 12: Next you will see your photo in the UI, when you see that photo there c
 
  2.  Running cell blocks [63]-[64] load the user interface. The username and password are both: admin (in all lower-case).
 
+   ![capstone-loginpage](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/362de346-a8f6-4ae3-837d-e23c1da5655e)
+
  3.  The flow of the UI:
- Step1- login with proper username and password ‘admin’.
+Step1- login with proper username and password ‘admin’.
 Step2- click the ‘upload files’ button which will prompt open your local directories.
 Step3- choice a file in .png format and click the ‘open’ button.
 Step4- After seeing your selected image in the UI, click the ‘predict’ button.
