@@ -63,10 +63,12 @@ python -m ipykernel install --name=imageclassification (enter key)
 type in the command line: jupyter lab (enter key)
 
 (Go to the notebook file and change the kernel to ‘imageclassification’, you can now run cell blocks as intended.)
- 
+
+ ![custom-kernal-image](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/6dac0863-f42b-4729-8e6e-1f3469bec919)
 
 
 Step8: Download any .jpg picture of poison ivy or poison ivy look-a-like (e.g. Virginia Creeper) from the internet that is clear and just of the plant. You can opt to use the test images or one from the Kaggle set used in the project. We resize the image in the program so size shouldn't make a huge difference. However, I’d stray from images that are large or small for better predictions.
+
 
 Step9: 'Shift-enter' cell block by cell block through the entire program. The last cell block opens the UI of the program. The login username and password are both 'admin' (all lower-case). If things are taking a while don’t worry, chances are the kernel is busy and you just need to wait a second or perhaps you missed a shift-enter on a cell. You can interrupt the kernel with the stop button and try again block by block.
 
