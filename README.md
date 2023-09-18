@@ -107,5 +107,5 @@ Step5- close or minimize the program to view your results in the console. You wi
 2. Add a new user
 To add another user, you would copy the piece of code in ‘orange’ and paste it below the existing ‘orange code’ but above the ‘else:’ statement and adjust the username and passwords accordingly.
 
-
+![new-user-capstone](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/9d4f128f-74c3-4b0b-a9e2-1b1d18050a8c)
 
