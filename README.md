@@ -85,7 +85,8 @@ Step 12: Next you will see your photo in the UI, when you see that photo there c
 
  # User Guide
  General uses:  1. Cell blocks [57]-[60] display visualizations of the data.
-
+ 
+![metrics-capstoneimage](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/ecffa0ba-8b2a-417b-bca1-dd5afedb2641)
 
  2.  Running cell blocks [63]-[64] load the user interface. The username and password are both: admin (in all lower-case).
 
