@@ -21,3 +21,5 @@ more to this model is as simple as
 dragging and dropping .jpg images 
 into a folder.(The 'toxic folder' or 
 'non-toxic' folder.)
+
+![Program flow-capstone](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/26097c15-e581-4d6e-8644-0d7b75b36be9)
