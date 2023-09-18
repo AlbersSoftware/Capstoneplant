@@ -99,4 +99,13 @@ Step3- choice a file in .png format and click the ‘open’ button.
 Step4- After seeing your selected image in the UI, click the ‘predict’ button.
 Step5- close or minimize the program to view your results in the console. You will see the prediction of either ‘toxic’ or ‘non-toxic’ with the associated picture you have chosen.
 
- 
+ # Creating a new User
+ User login set-up:
+1. Changing the username and passwords.
+ Below is a picture of cell block [64]. In this block there is a function called def login() highlighted in red. In this function there is the names “admin” highlighted in purple that can be changed to anything you want the username and password to be. In orange you can see there is another user which can also be changed to whatever you want the user name and password to be as long as it stays in the “ ” marks.
+
+2. Add a new user
+To add another user, you would copy the piece of code in ‘orange’ and paste it below the existing ‘orange code’ but above the ‘else:’ statement and adjust the username and passwords accordingly.
+
+
+
