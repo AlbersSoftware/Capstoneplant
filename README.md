@@ -31,16 +31,21 @@ Installation Guide
 Step 1: Install Anaconda at: https://www.anaconda.com/download
 
 Step 2: run the installer and in advanced settings of the installer tick the box to 'Add Anaconda3 to the system PATH environment variable' 
+
  ![anaconda-install](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/74b121bf-333d-46a5-9b1b-0a5c46564e92)
 
 (It will say not recommended but it is fine to do)
 
 Step 3: download git from https://git-scm.com/ 
+
 (Choose 64-bit Git for Windows Setup, open the installer and download git with the already selected settings.)
+
 Step 4: open the command line and type: 
 git clone https://github.com/AlbersSoftware/Capstoneplant (enter key)
+
 Step 5: After the git is cloned, type the following in the command line:
  Jupyter lab (enter key)
+
 Step 6: In the jupyter lab, verify the 'Capstoneplant' folder is there. Close jupyter lab and the terminal. (DO NOT TRY TO RUN ANY CELL BLOCKS YET)
 
 Step 7: Create a virtual environment:
@@ -67,6 +72,7 @@ Step9: 'Shift-enter' cell block by cell block through the entire program. The la
 
 
 Step 11: After a successful login click the 'upload files' button and it will prompt open your file directory in a new window. From there, choose the poison ivy picture in .jpg format of your choice that you have downloaded.
+
 
 Step 12: Next you will see your photo in the UI, when you see that photo there click the 'predict' button. This will run your picture through the Convolutional Neural Network and make a prediction of either (toxic or non-toxic) and print that result to the console along with the associated picture.
  (You can re-upload and re-predict as you desire and close the window with the 'x' in the top right-hand corner of the login page to cancel the program.)
