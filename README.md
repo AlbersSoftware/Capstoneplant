@@ -69,7 +69,7 @@ type in the command line: jupyter lab (enter key)
  ![custom-kernal-image](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/6dac0863-f42b-4729-8e6e-1f3469bec919)
 
 
-Step8: Download any .jpg picture of poison ivy or poison ivy look-a-like (e.g. Virginia Creeper) from the internet that is clear and just of the plant. You can opt to use the test images or one from the Kaggle set used in the project. We resize the image in the program so size shouldn't make a huge difference. However, I’d stray from images that are large or small for better predictions.
+Step8: Download any .jpg picture of poison ivy or poison ivy look-a-like (e.g. Virginia Creeper) from the internet that is clear and just of the plant. You can opt to use the test images or one from the Kaggle set used in the project. We resize the image in the program so size shouldn't make a huge difference. However, I’d stray from images that are too large or small for better predictions.
 
 
 Step9: 'Shift-enter' cell block by cell block through the entire program. The last cell block opens the UI of the program. The login username and password are both 'admin' (all lower-case). If things are taking a while don’t worry, chances are the kernel is busy and you just need to wait a second or perhaps you missed a shift-enter on a cell. You can interrupt the kernel with the stop button and try again block by block.
@@ -100,10 +100,11 @@ Step5- close or minimize the program to view your results in the console. You wi
 
  # Creating A New User
  User login set-up:
-1. Changing the username and passwords.
+1. Changing the username and passwords:
+   
  Below is a picture of cell block [64]. In this block there is a function called def login() highlighted in red. In this function there is the names “admin” highlighted in purple that can be changed to anything you want the username and password to be. In orange you can see there is another user which can also be changed to whatever you want the user name and password to be as long as it stays in the “ ” marks.
 
-2. Add a new user
+2. Add a new user:
 To add another user, you would copy the piece of code in ‘orange’ and paste it below the existing ‘orange code’ but above the ‘else:’ statement and adjust the username and passwords accordingly.
 
 ![new-user-capstone](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/9d4f128f-74c3-4b0b-a9e2-1b1d18050a8c)
