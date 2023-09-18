@@ -31,8 +31,10 @@ Installation Guide
 Step 1: Install Anaconda at: https://www.anaconda.com/download
 
 Step 2: run the installer and in advanced settings of the installer tick the box to 'Add Anaconda3 to the system PATH environment variable' 
- 
+ ![anaconda-install](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/74b121bf-333d-46a5-9b1b-0a5c46564e92)
+
 (It will say not recommended but it is fine to do)
+
 Step 3: download git from https://git-scm.com/ 
 (Choose 64-bit Git for Windows Setup, open the installer and download git with the already selected settings.)
 Step 4: open the command line and type: 
