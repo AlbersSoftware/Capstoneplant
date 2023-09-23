@@ -23,7 +23,9 @@ into a folder.(The 'toxic folder' or
 'non-toxic' folder.)
 
 ![Program flow-capstone](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/26097c15-e581-4d6e-8644-0d7b75b36be9)
-
+# **Update** 
+I have now hosted this project and you can view it here: https://capstoneplanthosted-nre5ye9ziaqewuentnnqbr.streamlit.app/
+It is now working on web and mobile devices!
 
 # Installation Guide And Getting Started!
 
@@ -118,4 +120,4 @@ Once you download the project through the git command, the project is installed 
 
 
 # Future Changes
-In the future I plan to host this project as a web app and potientially change the UI to IPy-Widgets. The goal for the program would be for a user to modify the data on a desktop computer and a mobile device to take a picture and run it against the trained data. 
+In the future I plan to add more data and more validation features for uploading images that are clearly not plants. As of now it might predict your cat is toxic... which he/she might be anyway. 
