@@ -25,6 +25,7 @@ into a folder.(The 'toxic folder' or
 ![Program flow-capstone](https://github.com/AlbersSoftware/Capstoneplant/assets/65799182/26097c15-e581-4d6e-8644-0d7b75b36be9)
 # **Update** 
 I have now hosted this project and you can view it here: https://capstoneplanthosted-nre5ye9ziaqewuentnnqbr.streamlit.app/
+
 It is now working on web and mobile devices!
 
 # Installation Guide And Getting Started!
